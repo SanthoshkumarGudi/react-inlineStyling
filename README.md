@@ -1,2 +1,2 @@
-# react-inlineStyling
+# HTML
 Created with CodeSandbox
